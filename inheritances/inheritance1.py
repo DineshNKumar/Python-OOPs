@@ -30,8 +30,3 @@ class C(A,B):
         
 c = C()
 c.features5()
-
-
-
-
-

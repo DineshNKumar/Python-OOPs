@@ -29,13 +29,3 @@ if __name__ =='__main__':
     c = C()
     c.features1()
     c.features3()
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
